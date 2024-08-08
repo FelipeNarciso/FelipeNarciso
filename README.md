@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr/>
+ 
+<h2 align="center">Languages - Frameworks - Tools</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,vuejs,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,javascript,nodejs,typescript,c,firebase,mongodb,mysql,postgresql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 <div aling="center>
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
